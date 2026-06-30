@@ -335,5 +335,5 @@ class CubeStacking:
 if __name__ == "__main__":
     # cubes = CubeStacking(random_valid_stack(3,3,3))
 
-    cubes = CubeStacking([[2, 0, 3], [1, 1, 1], [1, 1, 0]],fill='white')
-    cubes.c23D('flrtf')
+    cubes = CubeStacking([[3, 1, 0], [1, 2, 1], [1, 0, 1]],fill="#DEDEDE")
+    cubes.c23D('tflr')

@@ -23,4 +23,5 @@ cubes.c3D()
 cubes.c23D('frt')
 cubes.c23D(view_str,save_path)
 ```
-![23D](./test_img/test_23D.png)
+![23D_1](./test_img/test_23D_1.png)
+![23D_2](./test_img/test_23D_2.png)
